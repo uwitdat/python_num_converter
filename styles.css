@@ -26,6 +26,11 @@ h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+h3 {
+  font-size: 1.6rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 body {
   background-color: rgb(229, 238, 252);
 }
